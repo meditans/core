@@ -1,5 +1,5 @@
 module Keyboard
-    ( arrows, wasd
+    ( arrows, wasd, vimKeys
     , enter, space, ctrl, shift, alt, meta
     , isDown, keysDown, presses
     ) where
